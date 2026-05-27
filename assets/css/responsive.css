@@ -1,0 +1,23 @@
+
+@media(max-width: 767px) {
+   .sub_div_top_bar{
+    flex-direction: column;
+    gap: 1rem;
+   }
+
+      
+}
+
+@media (min-width: 768px)and (max-width: 1100px) {
+    .text_div span {
+         padding: 0.6rem 0.8rem;
+      }
+
+     
+}
+
+@media (min-width: 768px)and (max-width: 1010px) {
+   .bank_details_div {
+         padding-top: 12rem;
+      }
+}
