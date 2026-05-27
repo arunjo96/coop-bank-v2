@@ -97,7 +97,7 @@ const swiper = new Swiper(".mySwiper", {
     threshold: 0.5
   });
 
-  // attach observer
+ 
   counters.forEach(counter => {
     observer.observe(counter);
   });
